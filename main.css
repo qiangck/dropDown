@@ -1,0 +1,14 @@
+@charset "utf-8";
+/*CSS Document*/
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin: 0;padding: 0;}
+body{font-size: 12px;}
+img{border: none;}
+li{list-style: none;}
+input,select,textarea{outline: none;border: none;background: none;}
+a{text-decoration: none;}
+.clearfix:after{content: "";display: block;clear: both;}
+.clearfix{zoom:1;}
+#main{background: #efefef;}
+#main ul{background: #fff;}
+#main li{text-align: center;font-size: 1.2rem;padding: 0.8rem 0;border-bottom: 1px solid #333;}
+#main .showFont{text-align: center;font-size: 1rem;color: #fff;padding: 5px 0;background: #000;display: none;}
